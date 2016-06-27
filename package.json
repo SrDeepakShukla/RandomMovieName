@@ -1,0 +1,27 @@
+{
+  "name": "RandomeMovieName",
+  "version": "1.0.0",
+  "description": "Random movie name",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SrDeepakShukla/RandomMovieName.git"
+  },
+  "keywords": [
+    "random",
+    "movie",
+    "name"
+  ],
+  "author": "'Deepak <'srdeepakshukla@gmail.com'>",
+  "license": "'MIT'",
+  "bugs": {
+    "url": "https://github.com/SrDeepakShukla/RandomMovieName/issues"
+  },
+  "homepage": "https://github.com/SrDeepakShukla/RandomMovieName",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
